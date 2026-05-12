@@ -42,7 +42,7 @@ export const siteContent = {
       fuel: 'Diesel',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://images.91wheels.com/assets/c_images/gallery/mahindra/scorpio/mahindra-scorpio-6-1766743994.png',
     },
     {
       id: 2,
@@ -54,7 +54,7 @@ export const siteContent = {
       fuel: 'Diesel',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner/10904/1755846017683/front-left-side-47.jpg',
     },
     {
       id: 3,
@@ -66,7 +66,7 @@ export const siteContent = {
       fuel: 'Diesel',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://res.cloudinary.com/dynbpb9u0/image/upload/v1778556289/WhatsApp_Image_2026-05-11_at_09.43.07_dppkfz.jpg',
     },
     {
       id: 4,
@@ -78,7 +78,7 @@ export const siteContent = {
       fuel: 'Diesel',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://img.gaadicdn.com/images/car-images/large/Mahindra/Thar-ROXX/8438/1723791394734/224_NEBULA-BLUE_1d5279.jpg',
     },
     {
       id: 5,
@@ -90,7 +90,7 @@ export const siteContent = {
       fuel: 'Petrol',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: ' https://res.cloudinary.com/dynbpb9u0/image/upload/v1777458600/dzire_kkjx6a.avif',
     },
     {
       id: 6,
@@ -102,7 +102,7 @@ export const siteContent = {
       fuel: 'Petrol',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Hyundai-i10/2691/front-left-side-47.jpg',
     },
     {
       id: 7,
@@ -114,7 +114,7 @@ export const siteContent = {
       fuel: 'Petrol',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/i20/11092/1755774177956/front-left-side-47.jpg',
     },
     {
       id: 8,
@@ -126,7 +126,7 @@ export const siteContent = {
       fuel: 'Petrol',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://media.zigcdn.com/media/model/2021/Jul/figo-5_600x400.jpg',
     },
     {
       id: 9,
@@ -138,7 +138,7 @@ export const siteContent = {
       fuel: 'Petrol',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://res.cloudinary.com/dynbpb9u0/image/upload/v1778556289/WhatsApp_Image_2026-05-11_at_09.41.16_f6gvct.jpg',
     },
     {
       id: 10,
@@ -150,11 +150,11 @@ export const siteContent = {
       fuel: 'Petrol',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOh67VuH2V6enFEg4zzDJEkBcnsRUNtEehYQ&s',
     },
     {
       id: 11,
-      name: 'Vertas',
+      name: 'Virtus',
       price: 5500,
       badge: 'Sedan',
       category: 'Sedan',
@@ -162,7 +162,7 @@ export const siteContent = {
       fuel: 'Petrol',
       transmission: 'Manual',
       ac: true,
-      img: '',
+      img: 'https://imgd.aeplcdn.com/664x374/n/cw/ec/144681/virtus-exterior-right-front-three-quarter-11.png?isig=0&q=80',
     },
   ],
 

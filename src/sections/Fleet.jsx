@@ -60,8 +60,15 @@ function FleetCard({ car, index }) {
       {/* Content */}
       <div className="p-6">
         <p className="font-heading font-medium text-[10px] tracking-[0.3em] text-slate-400 uppercase mb-1">{car.category}</p>
-        <h3 className="font-display font-bold text-2xl text-slate-900 leading-none tracking-wide mb-2">{car.name}</h3>
-        <p className="font-body text-sm text-slate-500 leading-relaxed mb-5">{car.description}</p>
+        <div className="flex items-end justify-between mb-3">
+          <h3 className="font-display font-bold text-2xl text-slate-900 leading-none tracking-wide">{car.name}</h3>
+          <div className="text-right">
+            <span className="font-display font-bold text-xl text-blue-600 leading-none">
+              ₹{car.price.toLocaleString('en-IN')}
+            </span>
+            <p className="font-heading text-[10px] tracking-wider text-slate-400 uppercase mt-0.5">/day</p>
+          </div>
+        </div>
 
         {/* Specs row */}
         <div className="flex flex-wrap gap-3 mb-5">
